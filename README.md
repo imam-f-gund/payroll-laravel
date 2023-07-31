@@ -17,7 +17,7 @@ php artisan migrate --seed
 
 username :             staff payroll | spv payroll
 ============================================
-password :           12345678      | 12345678
+password :              12345678      | 12345678
 ============================================
          
 
