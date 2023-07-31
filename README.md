@@ -15,11 +15,11 @@ php artisan migrate --seed
 
 ============================================
 
-usernam             password
+usernam             staff payroll | spv payroll
 ============================================
-staff payroll       12345678
+password            12345678      | 12345678
 ============================================
-spv payroll         12345678
+         
 
 
 
