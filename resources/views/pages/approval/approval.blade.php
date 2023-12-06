@@ -75,12 +75,12 @@
             <div class="col">
                 <h1 class="h3 mb-2 text-gray-800">Data approval</h1>
             </div>
-            <div class="col">
+            {{-- <div class="col">
                 <button type="button" class="btn btn-primary float-right" data-toggle="modal"
                     data-target="#tambahapproval">
                     Tambah approval
                 </button>
-            </div>
+            </div> --}}
         </div>
         <div class="row">
             <div class="col-md-12">
@@ -102,8 +102,8 @@
                                         <th>Potongan Absen</th>
                                         <th>Lembur</th>
                                         <th>Insentif </th>
-                                        <th>Total Gaji</th>
                                         <th>status </th>
+                                        <th>Total Gaji</th>
                                         <th width="40%">Aksi</th>
                                     </tr>
                                 </thead>

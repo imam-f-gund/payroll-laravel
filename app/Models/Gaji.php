@@ -22,8 +22,6 @@ class Gaji extends Model
         'total_gaji',
         'insentif',
         'status',
-        
-        
     ];
 
     public function detailUser()
